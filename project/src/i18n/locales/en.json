@@ -1,0 +1,34 @@
+{
+  "common": {
+    "search": "Search",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "addNew": "Add Contact",
+    "searchPlaceholder": "Search contacts...",
+    "noContacts": "No contacts found",
+    "addFirst": "Add your first contact!",
+    "tryDifferent": "Try a different search term",
+    "deleteConfirm": "Are you sure you want to delete this contact?"
+  },
+  "contact": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "category": "Category",
+    "notes": "Notes"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address"
+  }
+}
