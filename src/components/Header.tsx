@@ -29,11 +29,12 @@ const Header = () => {
               Formations
             </a>
             <a href="#apropos" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
-              À propos
+              Privacy
             </a>
             <a href="#contact" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
               Contact
             </a>
+           
           </nav>
 
           {/* Contact Button */}
@@ -70,11 +71,12 @@ const Header = () => {
                 Formations
               </a>
               <a href="#apropos" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
-                À propos
+                Privacy
               </a>
               <a href="#contact" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
                 Contact
               </a>
+             
               <a
                 href="#contact"
                 className="bg-orange-500 text-white px-6 py-3 rounded-lg font-medium hover:bg-orange-600 transition-colors duration-200 flex items-center space-x-2 w-fit"

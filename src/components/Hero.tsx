@@ -109,6 +109,7 @@ const Hero = () => {
           <div className="w-1 h-3 bg-white rounded-full mt-2 animate-pulse"></div>
         </div>
       </div>
+   
     </section>
   );
 };

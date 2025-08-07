@@ -55,6 +55,9 @@ const Footer = () => {
                   Contact
                 </a>
               </li>
+               <li>
+             
+              </li>
             </ul>
           </div>
 

@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Services from './components/Services';
 
+
 function App() {
   return (
     <div className="min-h-screen">
@@ -17,6 +18,7 @@ function App() {
       <WhyChooseUs />
       <Contact />
       <Footer />
+   
     </div>
   );
 }
