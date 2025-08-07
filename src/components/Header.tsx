@@ -28,7 +28,7 @@ const Header = () => {
             <a href="#formations" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
               Formations
             </a>
-            <a href="#apropos" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
+            <a href="#privacy" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
               Privacy
             </a>
             <a href="#contact" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
@@ -70,7 +70,7 @@ const Header = () => {
               <a href="#formations" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
                 Formations
               </a>
-              <a href="#apropos" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
+              <a href="#privacy" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
                 Privacy
               </a>
               <a href="#contact" className="text-gray-700 hover:text-orange-500 transition-colors duration-200 font-medium">
